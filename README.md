@@ -1,6 +1,3 @@
-# astro
-Uma CLI Simples para parar e iniciar um webserver, escrito em Go.
-
 # 🚀 Astro
 
 > Uma CLI simples para iniciar e parar um web server.
