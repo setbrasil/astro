@@ -30,12 +30,6 @@ Opcionalmente, mova o binário para o PATH:
 mv astro /usr/local/bin/
 ```
 
-> Instale em Windows utilizando esse comando:
-
-```powershell
-powershell -c irm "https://github.com/setbrasil/astro/releases/download/beta/install.ps1 | iex"
-```
-
 ---
 
 ## 🖥️ Comandos
