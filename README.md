@@ -33,7 +33,7 @@ mv astro /usr/local/bin/
 > Instale em Windows utilizando esse comando:
 
 ```powershell
-powershell -c irm "https://github.com/setbrasil/astro/releases/download/v1.0.0/install.ps1 | iex"
+powershell -c irm "https://github.com/setbrasil/astro/releases/download/beta/install.ps1 | iex"
 ```
 
 ---
